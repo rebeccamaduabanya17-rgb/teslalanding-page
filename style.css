@@ -151,21 +151,21 @@ button.general{
 }
 
 #more-card2 {
-    background-image: url("resources/powerwall.avif");
+    background-image: url("resources/power2.avif");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 #more-card3 {
-    background-image: url("resources/megapack.avif");
+    background-image: url("resources/megapack3.avif");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 #more-card4 {
-    background-image: url("resources/solar-roof.avif");
+    background-image: url("resources/solarroof4.avif");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
